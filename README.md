@@ -66,6 +66,17 @@ The Excel dashboard provides visual insights including:
 * Age and gender customer segmentation
 * Sales by channel
 
+## Key Insights
+- Female customers contribute the majority of sales  
+- Adult age group drives most revenue  
+- Top-performing states include Maharashtra and Karnataka  
+- Major sales channels include Amazon and Flipkart  
+
+## KPI Summary
+- Total Sales  
+- Total Orders  
+- Average Order Value  
+
 ## Author
 
 Graduate Student
