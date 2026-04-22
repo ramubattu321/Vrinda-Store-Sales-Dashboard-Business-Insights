@@ -1,86 +1,107 @@
-# Vrinda Store Sales Data Analysis 
+# Vrinda Store Sales Dashboard & Business Insights (2022)
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png.png)
 
+---
+
 ## Overview
+This project analyzes retail sales data from **Vrinda Store** to identify sales trends, customer purchasing behavior, and overall business performance.
 
-This project analyzes retail sales data from **Vrinda Store** to identify sales trends, customer purchasing behavior, and business performance insights. The analysis was performed using Microsoft Excel with pivot tables, charts, and dashboards.
+The analysis was performed using Microsoft Excel with Pivot Tables, charts, and an interactive dashboard. The objective is to transform raw sales data into meaningful insights that support data-driven decision-making.
 
-The goal of this project is to transform raw sales data into meaningful insights that help understand customer demographics, order performance, and sales distribution across channels and regions.
+---
+
+## Business Questions
+- Which months have the highest sales?
+- Which customer segment contributes the most revenue?
+- Which states generate the most orders?
+- Which sales channels perform best?
+- Which product categories drive the most sales?
+
+---
+
+## Key Metrics
+- Total Sales  
+- Total Orders  
+- Sales by Channel  
+- Customer Segmentation (Gender & Age Group)  
+- Regional Performance  
+
+---
 
 ## Dataset
-
 The dataset contains transactional sales data including:
+- Order ID  
+- Sales Amount  
+- Order Status  
+- Sales Channel  
+- Customer Age Group  
+- Gender  
+- State  
 
-* Order ID
-* Sales amount
-* Order status
-* Sales channel
-* Customer age group
-* Gender
-* State
+---
 
-The dataset was cleaned and organized in Excel before analysis.
+## Methodology
 
-## Tools Used
+### Data Cleaning
+- Removed missing and inconsistent values  
+- Standardized dataset for accurate analysis  
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Data Cleaning
-* Data Visualization
-* Dashboard Creation
+### Data Analysis
+- Created Pivot Tables to summarize key metrics  
+- Performed trend analysis on sales and customer behavior  
 
-## Analysis Performed
+### Dashboard Creation
+- Built an interactive Excel dashboard  
+- Used slicers for dynamic filtering  
+- Combined multiple charts into a single report  
 
-The following business questions were analyzed:
-
-* Sales vs Orders relationship
-* Men vs Women purchasing behavior
-* Order status distribution
-* Sales performance by channel
-* Top 5 states by sales
-* Customer distribution by age and gender
+---
 
 ## Key Insights
-
-* Identified the top performing states contributing to the highest sales.
-* Analyzed gender-based purchasing trends.
-* Evaluated order completion and cancellation rates.
-* Determined the most effective sales channels.
-* Segmented customers based on age group and gender.
-
-## Project Structure
-
-Vrinda-Store-Sales-Analysis
-│
-├── Vrinda_Store_Data_Analysis.xlsx
-└── README.md
-
-## Dashboard
-
-The Excel dashboard provides visual insights including:
-
-* Sales vs Orders chart
-* Gender comparison analysis
-* Order status breakdown
-* Top states by sales
-* Age and gender customer segmentation
-* Sales by channel
-
-## Key Insights
-- Female customers contribute the majority of sales  
-- Adult age group drives most revenue  
+- Female customers contribute the majority of total sales  
+- Adult age group (30–49 years) drives the highest revenue  
 - Top-performing states include Maharashtra and Karnataka  
 - Major sales channels include Amazon and Flipkart  
 
-## KPI Summary
-- Total Sales  
-- Total Orders  
-- Average Order Value  
+---
+
+## Business Impact
+- Helps identify target customer segments for marketing campaigns  
+- Supports data-driven decisions for sales strategy  
+- Improves understanding of regional and channel performance  
+- Enables better inventory and demand planning  
+
+---
+
+## Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Data Cleaning Techniques  
+- Data Visualization  
+
+---
+
+## Project Structure
+Vrinda-Store-Sales-Dashboard
+│
+├── Vrinda_Store_Data_Analysis.xlsx
+├── images/
+│   └── dashboard.png
+└── README.md
+
+---
+
+## Applications
+- Sales performance analysis  
+- Customer segmentation  
+- Marketing strategy optimization  
+- Business intelligence reporting  
+
+---
 
 ## Author
-
-Graduate Student
-California State University, Fresno
+Ramu Battu  
+MS Data Analytics, California State University, Fresno
