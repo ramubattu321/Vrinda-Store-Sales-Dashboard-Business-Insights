@@ -1,4 +1,4 @@
-# Vrinda Store Sales Data Analysis using Excel
+# Vrinda Store Sales Data Analysis 
 
 ## Overview
 
