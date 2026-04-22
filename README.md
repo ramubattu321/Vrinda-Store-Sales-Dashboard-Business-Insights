@@ -1,7 +1,7 @@
 # Vrinda Store Sales Data Analysis 
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png.png)
+![Dashboard](dashboard.png.png)
 
 ## Overview
 
